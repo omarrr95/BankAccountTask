@@ -1,0 +1,15 @@
+D:\Course\TaskWeek4\TaskWeek4\bin\Debug\net7.0\TaskWeek4.exe
+D:\Course\TaskWeek4\TaskWeek4\bin\Debug\net7.0\TaskWeek4.dll
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.csproj.AssemblyReference.cache
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.AssemblyInfoInputs.cache
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.AssemblyInfo.cs
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.csproj.CoreCompileInputs.cache
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.dll
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\refint\TaskWeek4.dll
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.pdb
+D:\Course\TaskWeek4\TaskWeek4\bin\Debug\net7.0\TaskWeek4.deps.json
+D:\Course\TaskWeek4\TaskWeek4\bin\Debug\net7.0\TaskWeek4.runtimeconfig.json
+D:\Course\TaskWeek4\TaskWeek4\bin\Debug\net7.0\TaskWeek4.pdb
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\TaskWeek4.genruntimeconfig.cache
+D:\Course\TaskWeek4\TaskWeek4\obj\Debug\net7.0\ref\TaskWeek4.dll
